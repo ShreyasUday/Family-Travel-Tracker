@@ -69,10 +69,11 @@ Family-Travel-Tracker/
 │── package.json  
 └── README.md
 
-🔧 How to Run Locally
+## ⚙ Installation & Setup
 
+```bash
 # Clone repository
-git clone https://github.com/<your-username>/Family-Travel-Tracker.git
+git clone https://github.com/ShreyasUday/Family-Travel-Tracker.git
 
 # Navigate into project
 cd Family-Travel-Tracker
@@ -82,8 +83,7 @@ npm install
 
 # Start the server
 npm start
-
-➡ Open in browser → http://localhost:3000
+```
 
 📌 What This Project Demonstrates (Backend Concepts)
 
